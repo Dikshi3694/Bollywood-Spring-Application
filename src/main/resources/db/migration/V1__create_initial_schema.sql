@@ -1,4 +1,4 @@
-CREATE TABLE `bollywooddev`.`movies` (
+CREATE TABLE `movies` (
   `id`        INT          NOT NULL    AUTO_INCREMENT,
   `version`   INT          NOT NULL    DEFAULT 0,
   `title`     VARCHAR(255) NOT NULL,
